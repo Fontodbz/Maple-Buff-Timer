@@ -18,10 +18,6 @@ Windows Defender may flag the programme as "untrustworthy" but that's because ev
 
 ## Installation
 
-### Prerequisites
-
-- **Python 3.x**: Ensure you have Python 3.x installed on your system. [Download Python](https://www.python.org/downloads/)
-- **Dependencies**: The script requires the `keyboard` library. This will be installed automatically when you install the executable.
 
 ### Running executable (easiest option)
   1. Download: **Maple Buff Timer v1.0** folder from releases on right hand side of git page and run maple_buff_timer.exe
@@ -29,7 +25,15 @@ Windows Defender may flag the programme as "untrustworthy" but that's because ev
   3. Enjoy Buff timer
 
 
-### Running the Script from source
+
+
+## Running the Script from source
+
+### Prerequisites
+
+- **Python 3.x**: Ensure you have Python 3.x installed on your system. [Download Python](https://www.python.org/downloads/)
+- **Dependencies**: The script requires the `keyboard` library. This will be installed automatically when you install the executable.
+
 
 1. **Download the Repository**:
 
