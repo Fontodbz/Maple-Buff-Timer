@@ -40,7 +40,7 @@ Note: Windows Defender or other antivirus software may flag the executable as "u
    Clone the repository or download the ZIP file from GitHub.
 
    ```bash
-   git clone https://github.com/Fontodbz/maple_buff_timer.git
+   git clone https://github.com/Fontodbz/maple-buff-timer.git
    ```
 2. **Navigate to the Project Directory**:
    Open cmd
