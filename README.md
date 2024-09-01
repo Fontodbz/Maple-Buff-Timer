@@ -32,7 +32,7 @@ Note: Windows Defender or other antivirus software may flag the executable as "u
 ### Prerequisites
 
 - **Python 3.x**: Ensure you have Python 3.x installed on your system. [Download Python](https://www.python.org/downloads/)
-- **Dependencies**: The script requires the `keyboard` library. This will be installed automatically when you install the executable.
+- **Dependencies**: The script requires the `keyboard` library. (step 4)
 
 
 1. **Download the Repository**:
