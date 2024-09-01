@@ -47,11 +47,11 @@ Note: Windows Defender or other antivirus software may flag the executable as "u
    ```
    cd path/to/maple_buff_timer
    ```
-4. **Install Dependencies**:
+3. **Install Dependencies**:
   ```
   pip install -r requirements.txt
   ```
-5. **Run the script using Python**:
+4. **Run the script using Python**:
    ```
    python maple_buff_timer.py
    ```
