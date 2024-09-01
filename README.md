@@ -70,6 +70,7 @@ You can manually edit config.json to change your buff settings. The format is as
 ```
 
 Troubleshooting:
+
 Executable Not Found: Ensure that the executable is in the correct directory and has the right permissions. On Windows, right-click and select Run as administrator.
 
 Dependencies Issue: If running the script from source, make sure all dependencies are installed. 
