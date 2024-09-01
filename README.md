@@ -2,12 +2,11 @@
 
 ## Description
 
-The Maple Buff Timer is a Python script/CLI buff timer designed to manage multiple buff timers for MapleRoyals. It allows you to set customizable timers for buffs, reset them with specific keys, and alerts you when it's time to refresh your buffs. The script saves your timer settings in a configuration file and can be easily run from an executable.
+Maple Buff Timer is a Python-based command-line tool designed to manage multiple buff timers for MapleRoyals. It allows you to set customizable timers for various buffs, reset them with specific keys, and alerts you when it's time to refresh your buffs. The script automatically saves your timer settings in a configuration file and can be conveniently run as an executable.
 
-Source code for the timer can be found in main/maple_buff_timer.py
+The source code for the timer is available in the main/maple_buff_timer.py file.
 
-Windows Defender may flag the programme as "untrustworthy" but that's because everything runs in a cmd window, as stated above the source code is in maple_buff_timer.py. https://snyk.io/code-checker/ can be used to check for security flaws in the code and has verified the code in python script as not having security flaws. 
-It is always better to run code from source but using the .exe will be easier if you don't have experience with Python.
+Note: Windows Defender or other antivirus software may flag the executable as "untrustworthy" due to the nature of running in a command-line window. However, the source code is open and accessible in maple_buff_timer.py, so you can review it yourself. You can also use Snyk's code checker to verify that the script contains no security flaws. While running the code from the source is generally more transparent and secure, the .exe is provided for users who may not have experience with Python and prefer a simpler setup.
 
 ## Features
 
