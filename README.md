@@ -35,7 +35,7 @@ The Maple Buff Timer is a Python script designed to manage multiple buff timers 
 2. **Navigate to the Project Directory**:
    Open cmd
    ```
-   cd path/to/maple_buff_timer_source
+   cd path/to/maple_buff_timer
    ```
 4. **Install Dependencies**:
   ```
