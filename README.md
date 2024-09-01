@@ -77,24 +77,25 @@ You can manually edit config.json to change your buff settings. The format is as
 }
 ```
 
-Troubleshooting:
+## Troubleshooting:
 
 Executable Not Found: Ensure that the executable is in the correct directory and has the right permissions. On Windows, right-click and select Run as administrator.
 
 Dependencies Issue: If running the script from source, make sure all dependencies are installed. 
 Run 
 ```
-pip install -r requirements.txt to resolve missing packages.
+pip install -r requirements.txt
 ```
+ to resolve missing packages.
 
-Contributing
+## Contributing
 
 If you'd like to contribute to this project, please fork the repository and submit a pull request. Make sure to follow the coding standards and include tests for any new features or bug fixes.
 
-License:
+## License:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact:
+## Contact:
 
 For any questions or feedback, please open an issue on the GitHub repository.
