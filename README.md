@@ -6,7 +6,8 @@ The Maple Buff Timer is a Python script/CLI buff timer designed to manage multip
 
 Source code for the timer can be found in main/maple_buff_timer.py
 
-Windows Defender may flag the programme as "untrustworthy" but that's because everything runs in a cmd window, as stated above the source code is in maple_buff_timer.py, it is always better to run code from source but using the .exe will be easier if you don't have experience with Python.
+Windows Defender may flag the programme as "untrustworthy" but that's because everything runs in a cmd window, as stated above the source code is in maple_buff_timer.py. https://snyk.io/code-checker/ can be used to check for security flaws in the code and has verified the code in python script as not having security flaws. 
+It is always better to run code from source but using the .exe will be easier if you don't have experience with Python.
 
 ## Features
 
