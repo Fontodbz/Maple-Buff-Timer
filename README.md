@@ -20,7 +20,7 @@ The Maple Buff Timer is a Python script designed to manage multiple buff timers 
 - **Dependencies**: The script requires the `keyboard` library. This will be installed automatically when you install the executable.
 
 ### Running executable (easiest option)
-  1. Download: **maple_buff_timer** folder and run maple_buff_timer.exe
+  1. Download: **Maple Buff Timer v1.0** folder from releases on right hand side of git page and run maple_buff_timer.exe
 
 
 ### Running the Script from source
