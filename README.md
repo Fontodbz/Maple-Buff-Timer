@@ -4,6 +4,8 @@
 
 The Maple Buff Timer is a Python script designed to manage multiple buff timers for MapleStory. It allows you to set customizable timers for buffs, reset them with specific keys, and alerts you when it's time to refresh your buffs. The script saves your timer settings in a configuration file and can be easily run from an executable.
 
+Source code for the timer can be found in main/maple_buff_timer.py
+
 ## Features
 
 - Configurable buff timers with customizable durations.
