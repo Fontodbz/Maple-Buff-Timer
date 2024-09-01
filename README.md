@@ -21,6 +21,8 @@ The Maple Buff Timer is a Python script designed to manage multiple buff timers 
 
 ### Running executable (easiest option)
   1. Download: **Maple Buff Timer v1.0** folder from releases on right hand side of git page and run maple_buff_timer.exe
+  2. Follow the prompts in terminal upon first time use which will create a .JSON file to save your configuration for the next time the programme is ran.
+  3. Enjoy Buff timer
 
 
 ### Running the Script from source
